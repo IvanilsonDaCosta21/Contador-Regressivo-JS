@@ -22,7 +22,6 @@ body{
 }
 .itens {
   font-size: 25px;
-  margin-left: 10px;
   flex-basis: 80px;
   padding: 20px;
   box-sizing: border-box;
@@ -30,9 +29,11 @@ body{
   color: #00ec85;
   border-radius: 5px;
   border: 2px solid #fff;
+  margin-right: 10px;
+  justify-content: space-evenly;
 }
 fieldset {
-  padding: 15px;
+  padding: 15px 4px 15px 15px;
   max-width: 180px;
   position: absolute;
   top: 50%;
@@ -50,9 +51,9 @@ fieldset {
   text-transform: uppercase;
   text-indent: 15px;
   padding-right: 15px;
-  color: #ca9d5a;
-  
+  color: #ca9d5a;  
 }
+
 .legenda_rodape {
   font-size: 25px;
   font-family: "Monserrat", Arial, Helvetica, sans-serif;

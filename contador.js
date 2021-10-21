@@ -1,5 +1,5 @@
 
-var dataFutura = new Date("November 12, 2022 10:00").getTime();
+var dataFutura = new Date("November 11, 2021 10:00").getTime();
 
 var dias, horas, minutos, segundos;
 function setValores(e) {
