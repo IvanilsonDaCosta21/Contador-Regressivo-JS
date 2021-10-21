@@ -51,7 +51,7 @@ fieldset {
   text-indent: 15px;
   padding-right: 15px;
   color: #ca9d5a;
-  /* background-color: #000;  */
+  
 }
 .legenda_rodape {
   font-size: 25px;
@@ -60,7 +60,7 @@ fieldset {
   text-decoration: underline;
   text-indent: 15px;
   color: #ca9d5a;
-  /* background-color: rgba(0, 0, 0, 0.164); */
+  
   padding: 15px 0;
 }
 
