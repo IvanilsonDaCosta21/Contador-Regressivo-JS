@@ -45,7 +45,7 @@ fieldset {
 }
 .legenda {
   font-size: 25px;
-  font-family: "Monserrat", Arial, Helvetica, sans-serif;
+  font-family: 'Montserrat', Arial, Helvetica, sans-serif;
   font-weight: bolder;
   text-decoration: underline;
   text-transform: uppercase;
@@ -56,7 +56,7 @@ fieldset {
 
 .legenda_rodape {
   font-size: 25px;
-  font-family: "Monserrat", Arial, Helvetica, sans-serif;
+  font-family: "Montserrat", Arial, Helvetica, sans-serif;
   font-weight: bolder;
   text-decoration: underline;
   text-indent: 15px;
